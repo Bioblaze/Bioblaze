@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about why I make so many Random Things~
 - 📫 How to reach me via Discord: Bioblaze Payne#6459
 - ⚡ Fun fact: I love Candy Corn <3
+
+
 ![Bioblaze's github stats](https://github-readme-stats.vercel.app/api?username=Bioblaze&count_private=true&show_icons=true&theme=gruvbox)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioblaze&langs_count=10&theme=gruvbox)
