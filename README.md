@@ -563,19 +563,6 @@ Full-time Roles          Open              Right opportunity in AI/infrastructur
 
 <br/>
 
----
-
-<sub>
-
-**Third-Party Validation**
-
-> *"Driven is the word that comes to mind... I was impressed by his ability to execute on technical deliverables with **LIGHTNING speed** while keeping the business vision first and foremost."* — Superforest colleague
-
-> *"He's a **genius in multiple facets** and a wonderful storyteller."* — LVLup Podcast
-
-> *"...had a prototype completed with all 151 original pokémon in **less than 24 hours**."* — The Verge
-
-</sub>
 
 ---
 
