@@ -3,7 +3,7 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Randolph%20Aarseth&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Architect%20%7C%20Infrastructure%20Engineer%20%7C%20Intel%20Software%20Innovator&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=Building+scale+infrastructure+for+20%2B+years;From+Discord's+first+MMO+to+award-winning+AI+systems;When+systems+that+cannot+fail+were+failing%2C+they+called+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=Building+scale+infrastructure+for+20%2B+years;From+Discord's+first+MMO+to+award-winning+AI+systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -70,7 +70,7 @@ STATUS                PROJECT                 DESCRIPTION
 [Research]            Embodied AI             TinyLlama → Unreal Engine → Raspberry Pi experiments
 ```
 
-<sub>Last updated: December 2024</sub>
+<sub>Last updated: December 2025</sub>
 
 ---
 
@@ -289,13 +289,6 @@ Awarded by Intel Corporation after winning AT&T Shape OpenVINO Challenge with Fo
 
 ## Signature Projects
 
-<div align="center">
-
-[![LISA Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioblaze&repo=charts&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/Bioblaze/charts)
-[![Blazium Card](https://github-readme-stats.vercel.app/api/pin/?username=blazium-engine&repo=blazium&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/blazium-engine/blazium)
-
-</div>
-
 ### LISA — Allied Universal
 **Award-Winning AI Infrastructure for Fortune 500 | 800K+ Users**
 
@@ -459,20 +452,19 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bioblaze&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bioblaze&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165"/>
+![Bioblaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bioblaze&show_icons=true&theme=radical)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bioblaze&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bioblaze)](https://git.io/streak-stats)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bioblaze&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bioblaze's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bioblaze&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bioblaze&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bioblaze&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
