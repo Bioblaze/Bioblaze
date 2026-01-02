@@ -474,8 +474,8 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
-2. ℹ️ Labeled issue [#1](https://github.com/blazium-engine/rune_discord_plugin/issues/1) in [blazium-engine/rune_discord_plugin](https://github.com/blazium-engine/rune_discord_plugin)
-3. ❗ Opened issue [#1](https://github.com/blazium-engine/rune_discord_plugin/issues/1) in [blazium-engine/rune_discord_plugin](https://github.com/blazium-engine/rune_discord_plugin)
+2. ℹ️ Labeled issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
+3. ❗ Opened issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
 4. 🗣 Commented on [#1526](https://github.com/brainboxdotcc/DPP/issues/1526#issuecomment-3669387952) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
 5. 🔒 Closed issue [#1526](https://github.com/brainboxdotcc/DPP/issues/1526) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
 <!--END_SECTION:activity-->
