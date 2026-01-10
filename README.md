@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
-2. 💪 Opened PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
-3. ℹ️ Labeled issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
-4. ❗ Opened issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
-5. 🗣 Commented on [#1526](https://github.com/brainboxdotcc/DPP/issues/1526#issuecomment-3669387952) in [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP)
+1. 🗣 Commented on [#42](https://github.com/blazium-games/ci_cd/pull/42#issuecomment-3733606226) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
+2. 🎉 Merged PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
+3. 💪 Opened PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
+4. ℹ️ Labeled issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
+5. ❗ Opened issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
