@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/blazium-games/DDDBrowserExamples/pull/3) in [blazium-games/DDDBrowserExamples](https://github.com/blazium-games/DDDBrowserExamples)
-2. 💪 Opened PR [#3](https://github.com/blazium-games/DDDBrowserExamples/pull/3) in [blazium-games/DDDBrowserExamples](https://github.com/blazium-games/DDDBrowserExamples)
-3. 🗣 Commented on [#42](https://github.com/blazium-games/ci_cd/pull/42#issuecomment-3733606226) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
-4. 🎉 Merged PR [#1](https://github.com/jasonduncan/liboai/pull/1) in [jasonduncan/liboai](https://github.com/jasonduncan/liboai)
-5. ❗ Opened issue [#1](https://github.com/blazium-games/rune_discord_plugin/issues/1) in [blazium-games/rune_discord_plugin](https://github.com/blazium-games/rune_discord_plugin)
+1. ℹ️ Labeled issue [#44](https://github.com/blazium-games/support/issues/44) in [blazium-games/support](https://github.com/blazium-games/support)
+2. ℹ️ Labeled issue [#44](https://github.com/blazium-games/support/issues/44) in [blazium-games/support](https://github.com/blazium-games/support)
+3. ❗ Opened issue [#44](https://github.com/blazium-games/support/issues/44) in [blazium-games/support](https://github.com/blazium-games/support)
+4. ℹ️ Assigned issue [#44](https://github.com/blazium-games/support/issues/44) in [blazium-games/support](https://github.com/blazium-games/support)
+5. ℹ️ Labeled issue [#43](https://github.com/blazium-games/support/issues/43) in [blazium-games/support](https://github.com/blazium-games/support)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
