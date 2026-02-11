@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#49](https://github.com/blazium-games/support/issues/49) in [blazium-games/support](https://github.com/blazium-games/support)
-2. ℹ️ Labeled issue [#49](https://github.com/blazium-games/support/issues/49) in [blazium-games/support](https://github.com/blazium-games/support)
-3. ℹ️ Assigned issue [#49](https://github.com/blazium-games/support/issues/49) in [blazium-games/support](https://github.com/blazium-games/support)
-4. ❗ Opened issue [#49](https://github.com/blazium-games/support/issues/49) in [blazium-games/support](https://github.com/blazium-games/support)
-5. ℹ️ Assigned issue [#48](https://github.com/blazium-games/support/issues/48) in [blazium-games/support](https://github.com/blazium-games/support)
+1. ❗ Opened issue [#4](https://github.com/Bioblaze/testicles/issues/4) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+2. ❗ Opened issue [#3](https://github.com/Bioblaze/testicles/issues/3) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+3. ❗ Opened issue [#2](https://github.com/Bioblaze/testicles/issues/2) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+4. ❗ Opened issue [#1](https://github.com/Bioblaze/testicles/issues/1) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+5. ℹ️ Assigned issue [#49](https://github.com/blazium-games/support/issues/49) in [blazium-games/support](https://github.com/blazium-games/support)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
