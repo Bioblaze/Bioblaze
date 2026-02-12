@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/Bioblaze/testicles/issues/130#issuecomment-3888362621) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-2. 🗣 Commented on [#129](https://github.com/Bioblaze/testicles/issues/129#issuecomment-3888362505) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-3. 🗣 Commented on [#129](https://github.com/Bioblaze/testicles/issues/129#issuecomment-3888362276) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-4. 🗣 Commented on [#129](https://github.com/Bioblaze/testicles/issues/129#issuecomment-3888361669) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-5. 🗣 Commented on [#129](https://github.com/Bioblaze/testicles/issues/129#issuecomment-3888357418) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+1. 🔒 Closed issue [#151](https://github.com/Bioblaze/testicles/issues/151) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+2. 🗣 Commented on [#151](https://github.com/Bioblaze/testicles/issues/151#issuecomment-3888588046) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+3. 🔒 Closed issue [#150](https://github.com/Bioblaze/testicles/issues/150) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+4. 🗣 Commented on [#150](https://github.com/Bioblaze/testicles/issues/150#issuecomment-3888585223) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+5. 🔒 Closed issue [#149](https://github.com/Bioblaze/testicles/issues/149) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
