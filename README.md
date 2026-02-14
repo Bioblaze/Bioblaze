@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/Bioblaze/testicles/issues/183#issuecomment-3888977582) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-2. 🔒 Closed issue [#183](https://github.com/Bioblaze/testicles/issues/183) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-3. 🔒 Closed issue [#182](https://github.com/Bioblaze/testicles/issues/182) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-4. 🗣 Commented on [#182](https://github.com/Bioblaze/testicles/issues/182#issuecomment-3888974021) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
-5. 🔒 Closed issue [#171](https://github.com/Bioblaze/testicles/issues/171) in [Bioblaze/testicles](https://github.com/Bioblaze/testicles)
+1. ℹ️ Labeled issue [#108](https://github.com/Bioblaze/openfleamarket/issues/108) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+2. ℹ️ Labeled issue [#108](https://github.com/Bioblaze/openfleamarket/issues/108) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+3. ❗ Opened issue [#108](https://github.com/Bioblaze/openfleamarket/issues/108) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+4. ℹ️ Labeled issue [#107](https://github.com/Bioblaze/openfleamarket/issues/107) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+5. ℹ️ Labeled issue [#107](https://github.com/Bioblaze/openfleamarket/issues/107) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
