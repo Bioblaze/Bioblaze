@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/Bioblaze/openfleamarket/pull/169#issuecomment-3903117262) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
-2. 🗣 Commented on [#65](https://github.com/Bioblaze/openfleamarket/issues/65#issuecomment-3903114131) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
-3. 🗣 Commented on [#65](https://github.com/Bioblaze/openfleamarket/issues/65#issuecomment-3903113213) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
-4. 🗣 Commented on [#65](https://github.com/Bioblaze/openfleamarket/issues/65#issuecomment-3903109899) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
-5. 🗣 Commented on [#169](https://github.com/Bioblaze/openfleamarket/pull/169#issuecomment-3903109879) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+1. 🎉 Merged PR [#165](https://github.com/Bioblaze/openfleamarket/pull/165) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+2. 🎉 Merged PR [#140](https://github.com/Bioblaze/openfleamarket/pull/140) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+3. 🎉 Merged PR [#141](https://github.com/Bioblaze/openfleamarket/pull/141) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+4. 🎉 Merged PR [#161](https://github.com/Bioblaze/openfleamarket/pull/161) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
+5. 🎉 Merged PR [#162](https://github.com/Bioblaze/openfleamarket/pull/162) in [Bioblaze/openfleamarket](https://github.com/Bioblaze/openfleamarket)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
