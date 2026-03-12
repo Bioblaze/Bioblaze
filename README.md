@@ -473,10 +473,10 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/blazium-games/support/issues/1) in [blazium-games/support](https://github.com/blazium-games/support)
-2. 🗣 Commented on [#52](https://github.com/blazium-games/support/issues/52#issuecomment-3975588119) in [blazium-games/support](https://github.com/blazium-games/support)
-3. ❗ Opened issue [#51](https://github.com/blazium-games/support/issues/51) in [blazium-games/support](https://github.com/blazium-games/support)
-4. ℹ️ Labeled issue [#49](https://github.com/Bioblaze/bankforai/issues/49) in [Bioblaze/bankforai](https://github.com/Bioblaze/bankforai)
+1. 🔒 Closed issue [#1](https://github.com/blazium-games/support/issues/1) in [blazium-games/support](https://github.com/blazium-games/support)
+2. ℹ️ Assigned issue [#1](https://github.com/blazium-games/support/issues/1) in [blazium-games/support](https://github.com/blazium-games/support)
+3. 🗣 Commented on [#52](https://github.com/blazium-games/support/issues/52#issuecomment-3975588119) in [blazium-games/support](https://github.com/blazium-games/support)
+4. ❗ Opened issue [#51](https://github.com/blazium-games/support/issues/51) in [blazium-games/support](https://github.com/blazium-games/support)
 5. ℹ️ Labeled issue [#49](https://github.com/Bioblaze/bankforai/issues/49) in [Bioblaze/bankforai](https://github.com/Bioblaze/bankforai)
 <!--END_SECTION:activity-->
 
