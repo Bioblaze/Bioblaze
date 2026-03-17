@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#57](https://github.com/blazium-games/support/issues/57) in [blazium-games/support](https://github.com/blazium-games/support)
-2. 🔒 Closed issue [#56](https://github.com/blazium-games/support/issues/56) in [blazium-games/support](https://github.com/blazium-games/support)
-3. 🔒 Closed issue [#55](https://github.com/blazium-games/support/issues/55) in [blazium-games/support](https://github.com/blazium-games/support)
-4. 🔒 Closed issue [#54](https://github.com/blazium-games/support/issues/54) in [blazium-games/support](https://github.com/blazium-games/support)
-5. 🔒 Closed issue [#3](https://github.com/blazium-games/support/issues/3) in [blazium-games/support](https://github.com/blazium-games/support)
+1. ℹ️ Labeled issue [#27](https://github.com/Bioblaze/rtmp_viewbot/issues/27) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+2. ℹ️ Labeled issue [#27](https://github.com/Bioblaze/rtmp_viewbot/issues/27) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+3. ❗ Opened issue [#27](https://github.com/Bioblaze/rtmp_viewbot/issues/27) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+4. ℹ️ Labeled issue [#26](https://github.com/Bioblaze/rtmp_viewbot/issues/26) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+5. ℹ️ Labeled issue [#26](https://github.com/Bioblaze/rtmp_viewbot/issues/26) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
