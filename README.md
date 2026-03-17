@@ -473,10 +473,10 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#60](https://github.com/Bioblaze/rtmp_viewbot/issues/60) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+1. ℹ️ Assigned issue [#6](https://github.com/Bioblaze/rtmp_viewbot/issues/6) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
 2. ℹ️ Labeled issue [#60](https://github.com/Bioblaze/rtmp_viewbot/issues/60) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
-3. ❗ Opened issue [#60](https://github.com/Bioblaze/rtmp_viewbot/issues/60) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
-4. ℹ️ Labeled issue [#59](https://github.com/Bioblaze/rtmp_viewbot/issues/59) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+3. ℹ️ Labeled issue [#60](https://github.com/Bioblaze/rtmp_viewbot/issues/60) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+4. ❗ Opened issue [#60](https://github.com/Bioblaze/rtmp_viewbot/issues/60) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
 5. ℹ️ Labeled issue [#59](https://github.com/Bioblaze/rtmp_viewbot/issues/59) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
 <!--END_SECTION:activity-->
 
