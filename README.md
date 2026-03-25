@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#609](https://github.com/blazium-games/blazium/pull/609) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🗣 Commented on [#6](https://github.com/Bioblaze/rtmp_viewbot/issues/6#issuecomment-4077063441) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
-3. 🗣 Commented on [#6](https://github.com/Bioblaze/rtmp_viewbot/issues/6#issuecomment-4077050784) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
-4. 🔒 Closed issue [#5](https://github.com/Bioblaze/rtmp_viewbot/issues/5) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
-5. 🗣 Commented on [#5](https://github.com/Bioblaze/rtmp_viewbot/issues/5#issuecomment-4077048243) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
+1. 💪 Opened PR [#611](https://github.com/blazium-games/blazium/pull/611) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 💪 Opened PR [#610](https://github.com/blazium-games/blazium/pull/610) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. ❌ Closed PR [#609](https://github.com/blazium-games/blazium/pull/609) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 💪 Opened PR [#609](https://github.com/blazium-games/blazium/pull/609) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. 🗣 Commented on [#6](https://github.com/Bioblaze/rtmp_viewbot/issues/6#issuecomment-4077063441) in [Bioblaze/rtmp_viewbot](https://github.com/Bioblaze/rtmp_viewbot)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
