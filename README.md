@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-b8bf10bdd0f612d957a7c58cd80e9bb4e5ee40e6) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
-2. 💪 Opened PR [#625](https://github.com/blazium-games/blazium/pull/625) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-bd45c153648351f330a39e3747b6168c2e15628a) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
-4. 🎉 Merged PR [#616](https://github.com/blazium-games/blazium/pull/616) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 🎉 Merged PR [#624](https://github.com/blazium-games/blazium/pull/624) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🚀 Published release [[nightly] Blazium Engine v0.5.233](https://github.com/blazium-games/blazium/releases/tag/v0.5.233-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-b8bf10bdd0f612d957a7c58cd80e9bb4e5ee40e6) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
+3. 💪 Opened PR [#625](https://github.com/blazium-games/blazium/pull/625) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-bd45c153648351f330a39e3747b6168c2e15628a) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
+5. 🎉 Merged PR [#616](https://github.com/blazium-games/blazium/pull/616) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
