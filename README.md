@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [[release] Blazium Engine v0.5.247](https://github.com/blazium-games/blazium/releases/tag/v0.5.247) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🚀 Published release [[release] Blazium Engine v0.5.246](https://github.com/blazium-games/blazium/releases/tag/v0.5.246) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-be84a707fd929347e7c96fa893b40ab5a6a65ace) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
-4. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-e9607c4f46e6e069819b633a01d07c36439ae7e6) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
-5. 🎉 Merged PR [#625](https://github.com/blazium-games/blazium/pull/625) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-eaab9bce2f89dcfacdda651be0716a63e29eac41) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
+2. 🚀 Published release [[release] Blazium Engine v0.5.247](https://github.com/blazium-games/blazium/releases/tag/v0.5.247) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. 🚀 Published release [[release] Blazium Engine v0.5.246](https://github.com/blazium-games/blazium/releases/tag/v0.5.246) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-be84a707fd929347e7c96fa893b40ab5a6a65ace) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
+5. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-e9607c4f46e6e069819b633a01d07c36439ae7e6) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
