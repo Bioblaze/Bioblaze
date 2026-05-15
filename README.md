@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30](https://github.com/youichi-uda/godot-mcp-pro/issues/30) in [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
-2. ❗ Opened issue [#433](https://github.com/hi-godot/godot-ai/issues/433) in [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai)
-3. ❗ Opened issue [#13](https://github.com/yurineko73/Godot-MCP-Native/issues/13) in [yurineko73/Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native)
-4. 💪 Opened PR [#1](https://github.com/blazium-games/games_docs/pull/1) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-5. 🗣 Commented on [#656](https://github.com/blazium-games/blazium/pull/656#issuecomment-4410054622) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. ❗ Opened issue [#10](https://github.com/bluredengine/blured/issues/10) in [bluredengine/blured](https://github.com/bluredengine/blured)
+2. ❗ Opened issue [#30](https://github.com/youichi-uda/godot-mcp-pro/issues/30) in [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
+3. ❗ Opened issue [#433](https://github.com/hi-godot/godot-ai/issues/433) in [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai)
+4. ❗ Opened issue [#13](https://github.com/yurineko73/Godot-MCP-Native/issues/13) in [yurineko73/Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native)
+5. 💪 Opened PR [#1](https://github.com/blazium-games/games_docs/pull/1) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
