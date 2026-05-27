@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#656](https://github.com/blazium-games/blazium/pull/656) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. ❌ Closed PR [#1](https://github.com/blazium-games/unrealircd/pull/1) in [blazium-games/unrealircd](https://github.com/blazium-games/unrealircd)
-3. 💪 Opened PR [#1](https://github.com/blazium-games/unrealircd/pull/1) in [blazium-games/unrealircd](https://github.com/blazium-games/unrealircd)
-4. ❗ Opened issue [#10](https://github.com/bluredengine/blured/issues/10) in [bluredengine/blured](https://github.com/bluredengine/blured)
-5. ❗ Opened issue [#30](https://github.com/youichi-uda/godot-mcp-pro/issues/30) in [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
+1. ℹ️ Labeled PR [#678](https://github.com/blazium-games/blazium/pull/678) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. ℹ️ Labeled PR [#678](https://github.com/blazium-games/blazium/pull/678) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. ℹ️ Assigned PR [#678](https://github.com/blazium-games/blazium/pull/678) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 💪 Opened PR [#678](https://github.com/blazium-games/blazium/pull/678) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. 🎉 Merged PR [#656](https://github.com/blazium-games/blazium/pull/656) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
