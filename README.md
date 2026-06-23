@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/blazium-games/ci_cd/pull/43) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
-2. ❌ Closed PR [#575](https://github.com/blazium-games/blazium/pull/575) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. ❌ Closed PR [#572](https://github.com/blazium-games/blazium/pull/572) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. ❌ Closed PR [#564](https://github.com/blazium-games/blazium/pull/564) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 🎉 Merged PR [#694](https://github.com/blazium-games/blazium/pull/694) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 💪 Opened PR [#44](https://github.com/blazium-games/ci_cd/pull/44) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
+2. 💪 Opened PR [#1](https://github.com/blazium-games/jwttool_module_tests/pull/1) in [blazium-games/jwttool_module_tests](https://github.com/blazium-games/jwttool_module_tests)
+3. ❌ Closed PR [#43](https://github.com/blazium-games/ci_cd/pull/43) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
+4. ❌ Closed PR [#575](https://github.com/blazium-games/blazium/pull/575) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. ❌ Closed PR [#572](https://github.com/blazium-games/blazium/pull/572) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
