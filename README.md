@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/blazium-games/ci_cd/pull/45) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
-2. 💪 Opened PR [#1](https://github.com/blazium-games/town_sdk_module_tests/pull/1) in [blazium-games/town_sdk_module_tests](https://github.com/blazium-games/town_sdk_module_tests)
-3. 💪 Opened PR [#2](https://github.com/blazium-games/jwttool_module_tests/pull/2) in [blazium-games/jwttool_module_tests](https://github.com/blazium-games/jwttool_module_tests)
-4. 🎉 Merged PR [#44](https://github.com/blazium-games/ci_cd/pull/44) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
-5. 💪 Opened PR [#44](https://github.com/blazium-games/ci_cd/pull/44) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
+1. 🎉 Merged PR [#697](https://github.com/blazium-games/blazium/pull/697) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 💪 Opened PR [#45](https://github.com/blazium-games/ci_cd/pull/45) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
+3. 💪 Opened PR [#1](https://github.com/blazium-games/town_sdk_module_tests/pull/1) in [blazium-games/town_sdk_module_tests](https://github.com/blazium-games/town_sdk_module_tests)
+4. 💪 Opened PR [#2](https://github.com/blazium-games/jwttool_module_tests/pull/2) in [blazium-games/jwttool_module_tests](https://github.com/blazium-games/jwttool_module_tests)
+5. 🎉 Merged PR [#44](https://github.com/blazium-games/ci_cd/pull/44) in [blazium-games/ci_cd](https://github.com/blazium-games/ci_cd)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
