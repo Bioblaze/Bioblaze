@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [[nightly] Blazium Engine v0.6.701](https://github.com/blazium-games/blazium/releases/tag/v0.6.701-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🎉 Merged PR [#703](https://github.com/blazium-games/blazium/pull/703) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 💪 Opened PR [#703](https://github.com/blazium-games/blazium/pull/703) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. 💪 Opened PR [#702](https://github.com/blazium-games/blazium/pull/702) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 💪 Opened PR [#701](https://github.com/blazium-games/blazium/pull/701) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🗣 Commented on [#601](https://github.com/blazium-games/blazium/issues/601#issuecomment-4813682511) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 🔒 Closed issue [#601](https://github.com/blazium-games/blazium/issues/601) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. 🗣 Commented on [#704](https://github.com/blazium-games/blazium/issues/704#issuecomment-4813648522) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 🔓 Reopened issue [#704](https://github.com/blazium-games/blazium/issues/704) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. 🔒 Closed issue [#704](https://github.com/blazium-games/blazium/issues/704) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
