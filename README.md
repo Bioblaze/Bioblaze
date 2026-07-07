@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/blazium-games/game-design-index/pull/2) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
-2. 💪 Opened PR [#2](https://github.com/blazium-games/game-design-index/pull/2) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
-3. 🎉 Merged PR [#1](https://github.com/blazium-games/game-design-index/pull/1) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
-4. 💪 Opened PR [#1](https://github.com/blazium-games/game-design-index/pull/1) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
-5. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-e5b7f814c8ca1e4bbe9716a5bc8a429c5d0b4c6f) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
+1. 🗣 Commented on [#3](https://github.com/blazium-games/game-design-index/issues/3#issuecomment-4903907006) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
+2. 🗣 Commented on [#3](https://github.com/blazium-games/game-design-index/issues/3#issuecomment-4903903793) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
+3. 🎉 Merged PR [#2](https://github.com/blazium-games/game-design-index/pull/2) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
+4. 💪 Opened PR [#2](https://github.com/blazium-games/game-design-index/pull/2) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
+5. 🎉 Merged PR [#1](https://github.com/blazium-games/game-design-index/pull/1) in [blazium-games/game-design-index](https://github.com/blazium-games/game-design-index)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
