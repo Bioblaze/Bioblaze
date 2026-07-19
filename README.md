@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#724](https://github.com/blazium-games/blazium/pull/724) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🔒 Closed issue [#723](https://github.com/blazium-games/blazium/issues/723) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-7f1957876188b2e81105154ae938c02b835c8660) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
-4. 🎉 Merged PR [#719](https://github.com/blazium-games/blazium/pull/719) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 💪 Opened PR [#725](https://github.com/blazium-games/blazium/pull/725) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 💪 Opened PR [#2](https://github.com/blazium-games/dddbrowser_blender_plugin/pull/2) in [blazium-games/dddbrowser_blender_plugin](https://github.com/blazium-games/dddbrowser_blender_plugin)
+2. 💪 Opened PR [#4](https://github.com/blazium-games/DDDBrowserExamples/pull/4) in [blazium-games/DDDBrowserExamples](https://github.com/blazium-games/DDDBrowserExamples)
+3. 🎉 Merged PR [#724](https://github.com/blazium-games/blazium/pull/724) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+4. 🔒 Closed issue [#723](https://github.com/blazium-games/blazium/issues/723) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. 🚀 Published release [Documentation - blazium-dev](https://github.com/blazium-games/blazium-docs/releases/tag/docs-blazium-dev-7f1957876188b2e81105154ae938c02b835c8660) in [blazium-games/blazium-docs](https://github.com/blazium-games/blazium-docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
