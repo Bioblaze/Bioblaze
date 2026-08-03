@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#742](https://github.com/blazium-games/blazium/pull/742) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🗣 Commented on [#30](https://github.com/youichi-uda/godot-mcp-pro/issues/30#issuecomment-5151414302) in [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
-3. 🚀 Published release [[nightly] Blazium Engine v0.6.751](https://github.com/blazium-games/blazium/releases/tag/v0.6.751-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. 🎉 Merged PR [#732](https://github.com/blazium-games/blazium/pull/732) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 💪 Opened PR [#737](https://github.com/blazium-games/blazium/pull/737) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🎉 Merged PR [#742](https://github.com/blazium-games/blazium/pull/742) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 💪 Opened PR [#742](https://github.com/blazium-games/blazium/pull/742) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. 🗣 Commented on [#30](https://github.com/youichi-uda/godot-mcp-pro/issues/30#issuecomment-5151414302) in [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro)
+4. 🚀 Published release [[nightly] Blazium Engine v0.6.751](https://github.com/blazium-games/blazium/releases/tag/v0.6.751-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+5. 🎉 Merged PR [#732](https://github.com/blazium-games/blazium/pull/732) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
