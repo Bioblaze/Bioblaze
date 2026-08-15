@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#743](https://github.com/blazium-games/blazium/pull/743) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🎉 Merged PR [#744](https://github.com/blazium-games/blazium/pull/744) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 💪 Opened PR [#744](https://github.com/blazium-games/blazium/pull/744) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. 💪 Opened PR [#743](https://github.com/blazium-games/blazium/pull/743) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 🚀 Published release [[nightly] Blazium Engine v0.6.755](https://github.com/blazium-games/blazium/releases/tag/v0.6.755-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🎉 Merged PR [#2](https://github.com/blazium-games/socketio_module_tests/pull/2) in [blazium-games/socketio_module_tests](https://github.com/blazium-games/socketio_module_tests)
+2. 🎉 Merged PR [#1](https://github.com/blazium-games/remote_control_module_tests/pull/1) in [blazium-games/remote_control_module_tests](https://github.com/blazium-games/remote_control_module_tests)
+3. 🎉 Merged PR [#1](https://github.com/blazium-games/tiled_importer_module_tests/pull/1) in [blazium-games/tiled_importer_module_tests](https://github.com/blazium-games/tiled_importer_module_tests)
+4. 🎉 Merged PR [#1](https://github.com/blazium-games/town_sdk_module_tests/pull/1) in [blazium-games/town_sdk_module_tests](https://github.com/blazium-games/town_sdk_module_tests)
+5. 🎉 Merged PR [#2](https://github.com/blazium-games/jwttool_module_tests/pull/2) in [blazium-games/jwttool_module_tests](https://github.com/blazium-games/jwttool_module_tests)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
