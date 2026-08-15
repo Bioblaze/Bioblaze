@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/blazium-games/socketio_module_tests/pull/2) in [blazium-games/socketio_module_tests](https://github.com/blazium-games/socketio_module_tests)
-2. 🎉 Merged PR [#1](https://github.com/blazium-games/remote_control_module_tests/pull/1) in [blazium-games/remote_control_module_tests](https://github.com/blazium-games/remote_control_module_tests)
-3. 🎉 Merged PR [#1](https://github.com/blazium-games/tiled_importer_module_tests/pull/1) in [blazium-games/tiled_importer_module_tests](https://github.com/blazium-games/tiled_importer_module_tests)
-4. 🎉 Merged PR [#1](https://github.com/blazium-games/town_sdk_module_tests/pull/1) in [blazium-games/town_sdk_module_tests](https://github.com/blazium-games/town_sdk_module_tests)
-5. 🎉 Merged PR [#2](https://github.com/blazium-games/jwttool_module_tests/pull/2) in [blazium-games/jwttool_module_tests](https://github.com/blazium-games/jwttool_module_tests)
+1. 🎉 Merged PR [#1](https://github.com/blazium-games/kickapi_module_tests/pull/1) in [blazium-games/kickapi_module_tests](https://github.com/blazium-games/kickapi_module_tests)
+2. 🎉 Merged PR [#1](https://github.com/blazium-games/enetserver_module_tests/pull/1) in [blazium-games/enetserver_module_tests](https://github.com/blazium-games/enetserver_module_tests)
+3. 🎉 Merged PR [#1](https://github.com/blazium-games/crowdcontrol_module_tests/pull/1) in [blazium-games/crowdcontrol_module_tests](https://github.com/blazium-games/crowdcontrol_module_tests)
+4. 🎉 Merged PR [#1](https://github.com/blazium-games/httpserver_module_tests/pull/1) in [blazium-games/httpserver_module_tests](https://github.com/blazium-games/httpserver_module_tests)
+5. 🎉 Merged PR [#1](https://github.com/blazium-games/obsclient_module_tests/pull/1) in [blazium-games/obsclient_module_tests](https://github.com/blazium-games/obsclient_module_tests)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
