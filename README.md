@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5](https://github.com/blazium-games/blazium-skills/issues/5) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-2. ❗ Opened issue [#5](https://github.com/blazium-games/blazium-skills/issues/5) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-3. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-skills/pull/1#issuecomment-5625806861) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-4. 🗣 Commented on [#4](https://github.com/blazium-games/blazium-skills/pull/4#issuecomment-5625780072) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-5. 🗣 Commented on [#4](https://github.com/blazium-games/blazium-skills/pull/4#issuecomment-5625657907) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+1. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-skills/pull/1#issuecomment-5626690108) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+2. 🗣 Commented on [#6](https://github.com/blazium-games/blazium-skills/pull/6#issuecomment-5626143246) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+3. 💪 Opened PR [#6](https://github.com/blazium-games/blazium-skills/pull/6) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+4. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-skills/pull/1#issuecomment-5626036297) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+5. ℹ️ Labeled issue [#5](https://github.com/blazium-games/blazium-skills/issues/5) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
