@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-skills/pull/1#issuecomment-5628109002) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-2. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-skills/pull/1#issuecomment-5628092754) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
-3. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-subagents/pull/1#issuecomment-5628047840) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
-4. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-subagents/pull/1#issuecomment-5628035374) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
-5. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-subagents/pull/1#issuecomment-5627995706) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
+1. 💪 Opened PR [#775](https://github.com/blazium-games/blazium/pull/775) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 🔒 Closed issue [#5](https://github.com/blazium-games/blazium-skills/issues/5) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+3. 🔒 Closed issue [#2](https://github.com/blazium-games/blazium-skills/issues/2) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+4. 🎉 Merged PR [#1](https://github.com/blazium-games/blazium-subagents/pull/1) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
+5. 🗣 Commented on [#1](https://github.com/blazium-games/blazium-subagents/pull/1#issuecomment-5628655804) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
