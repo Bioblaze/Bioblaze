@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#817](https://github.com/blazium-games/blazium/pull/817) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🎉 Merged PR [#816](https://github.com/blazium-games/blazium/pull/816) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 🚀 Published release [[nightly] Blazium Engine v0.6.919](https://github.com/blazium-games/blazium/releases/tag/v0.6.919-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. 🎉 Merged PR [#19](https://github.com/blazium-games/games_cli/pull/19) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-5. 🎉 Merged PR [#47](https://github.com/blazium-games/games_docs/pull/47) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+1. 🎉 Merged PR [#2](https://github.com/blazium-games/unrealircd-tests/pull/2) in [blazium-games/unrealircd-tests](https://github.com/blazium-games/unrealircd-tests)
+2. 💪 Opened PR [#2](https://github.com/blazium-games/unrealircd-tests/pull/2) in [blazium-games/unrealircd-tests](https://github.com/blazium-games/unrealircd-tests)
+3. 🎉 Merged PR [#2](https://github.com/blazium-games/games_plugin/pull/2) in [blazium-games/games_plugin](https://github.com/blazium-games/games_plugin)
+4. 🎉 Merged PR [#1](https://github.com/blazium-games/games_launcher/pull/1) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+5. 🎉 Merged PR [#20](https://github.com/blazium-games/games_cli/pull/20) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
