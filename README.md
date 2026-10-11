@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [[nightly] Blazium Engine v0.6.924](https://github.com/blazium-games/blazium/releases/tag/v0.6.924-nightly) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-2. 🎉 Merged PR [#826](https://github.com/blazium-games/blazium/pull/826) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-3. 💪 Opened PR [#826](https://github.com/blazium-games/blazium/pull/826) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-4. 🎉 Merged PR [#824](https://github.com/blazium-games/blazium/pull/824) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
-5. 💪 Opened PR [#824](https://github.com/blazium-games/blazium/pull/824) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+1. 🎉 Merged PR [#829](https://github.com/blazium-games/blazium/pull/829) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+2. 💪 Opened PR [#830](https://github.com/blazium-games/blazium/pull/830) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
+3. 🎉 Merged PR [#3](https://github.com/blazium-games/justamcp_module_tests/pull/3) in [blazium-games/justamcp_module_tests](https://github.com/blazium-games/justamcp_module_tests)
+4. 💪 Opened PR [#3](https://github.com/blazium-games/justamcp_module_tests/pull/3) in [blazium-games/justamcp_module_tests](https://github.com/blazium-games/justamcp_module_tests)
+5. 💪 Opened PR [#829](https://github.com/blazium-games/blazium/pull/829) in [blazium-games/blazium](https://github.com/blazium-games/blazium)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
