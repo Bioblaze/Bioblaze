@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#186](https://github.com/blazium-games/support/issues/186) in [blazium-games/support](https://github.com/blazium-games/support)
-2. ❗ Opened issue [#186](https://github.com/blazium-games/support/issues/186) in [blazium-games/support](https://github.com/blazium-games/support)
-3. ℹ️ Labeled issue [#185](https://github.com/blazium-games/support/issues/185) in [blazium-games/support](https://github.com/blazium-games/support)
-4. ❗ Opened issue [#185](https://github.com/blazium-games/support/issues/185) in [blazium-games/support](https://github.com/blazium-games/support)
-5. 🗣 Commented on [#176](https://github.com/blazium-games/support/issues/176#issuecomment-6115579358) in [blazium-games/support](https://github.com/blazium-games/support)
+1. 🗣 Commented on [#176](https://github.com/blazium-games/support/issues/176#issuecomment-6117063172) in [blazium-games/support](https://github.com/blazium-games/support)
+2. 🗣 Commented on [#175](https://github.com/blazium-games/support/issues/175#issuecomment-6117065060) in [blazium-games/support](https://github.com/blazium-games/support)
+3. 🗣 Commented on [#185](https://github.com/blazium-games/support/issues/185#issuecomment-6117064027) in [blazium-games/support](https://github.com/blazium-games/support)
+4. 🗣 Commented on [#180](https://github.com/blazium-games/support/issues/180#issuecomment-6117063579) in [blazium-games/support](https://github.com/blazium-games/support)
+5. 🗣 Commented on [#181](https://github.com/blazium-games/support/issues/181#issuecomment-6117063792) in [blazium-games/support](https://github.com/blazium-games/support)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
