@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/blazium-games/games_launcher/issues/16#issuecomment-6353862170) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
-2. 🗣 Commented on [#14](https://github.com/blazium-games/games_launcher/issues/14#issuecomment-6353861112) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
-3. 🗣 Commented on [#13](https://github.com/blazium-games/games_launcher/issues/13#issuecomment-6353860655) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
-4. 🗣 Commented on [#39](https://github.com/blazium-games/games_cli/issues/39#issuecomment-6356366349) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-5. 🗣 Commented on [#35](https://github.com/blazium-games/games_cli/issues/35#issuecomment-6356364058) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
+1. 🗣 Commented on [#83](https://github.com/blazium-games/games_docs/issues/83#issuecomment-6360069304) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+2. 🗣 Commented on [#88](https://github.com/blazium-games/games_docs/issues/88#issuecomment-6363053022) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+3. 🗣 Commented on [#31](https://github.com/blazium-games/games_skill/issues/31#issuecomment-6362888081) in [blazium-games/games_skill](https://github.com/blazium-games/games_skill)
+4. 🗣 Commented on [#100](https://github.com/blazium-games/games_docs/issues/100#issuecomment-6361402555) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+5. 🗣 Commented on [#88](https://github.com/blazium-games/games_docs/issues/88#issuecomment-6360856776) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
