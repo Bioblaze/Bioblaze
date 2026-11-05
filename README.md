@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/blazium-games/games_docs/pull/109) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-2. 💪 Opened PR [#109](https://github.com/blazium-games/games_docs/pull/109) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-3. 🎉 Merged PR [#43](https://github.com/blazium-games/games_cli/pull/43) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-4. 🎉 Merged PR [#108](https://github.com/blazium-games/games_docs/pull/108) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-5. 💪 Opened PR [#108](https://github.com/blazium-games/games_docs/pull/108) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+1. 🎉 Merged PR [#32](https://github.com/blazium-games/games_skill/pull/32) in [blazium-games/games_skill](https://github.com/blazium-games/games_skill)
+2. 🎉 Merged PR [#110](https://github.com/blazium-games/games_docs/pull/110) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+3. 💪 Opened PR [#32](https://github.com/blazium-games/games_skill/pull/32) in [blazium-games/games_skill](https://github.com/blazium-games/games_skill)
+4. 💪 Opened PR [#110](https://github.com/blazium-games/games_docs/pull/110) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+5. 🎉 Merged PR [#109](https://github.com/blazium-games/games_docs/pull/109) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
