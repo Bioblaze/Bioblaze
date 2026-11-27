@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/blazium-games/games_cli/pull/56) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-2. 💪 Opened PR [#56](https://github.com/blazium-games/games_cli/pull/56) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-3. 🎉 Merged PR [#124](https://github.com/blazium-games/games_docs/pull/124) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-4. 💪 Opened PR [#124](https://github.com/blazium-games/games_docs/pull/124) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-5. 🎉 Merged PR [#123](https://github.com/blazium-games/games_docs/pull/123) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
+1. 🗣 Commented on [#40](https://github.com/blazium-games/games_launcher/pull/40#issuecomment-7209372794) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+2. 🗣 Commented on [#38](https://github.com/blazium-games/games_launcher/pull/38#issuecomment-7209372340) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+3. 🗣 Commented on [#37](https://github.com/blazium-games/games_launcher/pull/37#issuecomment-7209371916) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+4. 🗣 Commented on [#35](https://github.com/blazium-games/games_launcher/pull/35#issuecomment-7209371538) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+5. 🗣 Commented on [#34](https://github.com/blazium-games/games_launcher/pull/34#issuecomment-7209371143) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
