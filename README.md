@@ -473,11 +473,11 @@ Node-based automation editor written in C++, exposed through MCP so AI can dynam
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/blazium-games/games_docs/pull/126) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-2. 💪 Opened PR [#126](https://github.com/blazium-games/games_docs/pull/126) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
-3. 💪 Opened PR [#66](https://github.com/blazium-games/games_cli/pull/66) in [blazium-games/games_cli](https://github.com/blazium-games/games_cli)
-4. 🗣 Commented on [#40](https://github.com/blazium-games/games_launcher/pull/40#issuecomment-7209372794) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
-5. 🗣 Commented on [#38](https://github.com/blazium-games/games_launcher/pull/38#issuecomment-7209372340) in [blazium-games/games_launcher](https://github.com/blazium-games/games_launcher)
+1. 🗣 Commented on [#9](https://github.com/blazium-games/blazium-skills/pull/9#issuecomment-7234608126) in [blazium-games/blazium-skills](https://github.com/blazium-games/blazium-skills)
+2. 🗣 Commented on [#3](https://github.com/blazium-games/blazium-subagents/pull/3#issuecomment-7234607902) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
+3. 🗣 Commented on [#5](https://github.com/blazium-games/blazium-subagents/pull/5#issuecomment-7234607676) in [blazium-games/blazium-subagents](https://github.com/blazium-games/blazium-subagents)
+4. 🗣 Commented on [#24](https://github.com/blazium-games/blazium-toolchain/pull/24#issuecomment-7234607435) in [blazium-games/blazium-toolchain](https://github.com/blazium-games/blazium-toolchain)
+5. 🎉 Merged PR [#127](https://github.com/blazium-games/games_docs/pull/127) in [blazium-games/games_docs](https://github.com/blazium-games/games_docs)
 <!--END_SECTION:activity-->
 
 <sub>Auto-updated via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)</sub>
